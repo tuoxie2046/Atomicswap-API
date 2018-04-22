@@ -1,0 +1,12 @@
+{
+  "name": "Atomicswap-API",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/SpaceWhite/Atomicswap-API.git",
+  "author": "SpaceWhite <space_white@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "util": "^0.10.3"
+  }
+}
